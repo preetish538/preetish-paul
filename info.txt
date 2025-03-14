@@ -1,0 +1,24 @@
+Link: https://preetish538.github.io/preetish-paul/
+Style:
+1. Color Scheme
+	•	The background color is #1B1B1B, a dark shade to create a poker table ambiance.
+	•	The text color is #E0E0E0, a light gray for high contrast and readability.
+	•	The header and footer have a deep red (#D32F2F) to match a poker chip or casino-style aesthetic.
+2. Typography
+	•	Body Font: 'Poppins', sans-serif for a modern and clean look.
+	•	Headings Font: 'Montserrat', sans-serif, which makes h1 and h2 stand out.
+3. Navigation Bar
+	•	The navigation links are styled in white.
+	•	Font size is 1.2em, making the links more readable.
+	•	When hovered over, links change to gold (#FFD700), adding an interactive casino-like effect.
+4. Layout & Spacing
+	•	The main content area has 40px padding, creating a spacious and well-structured layout.
+	•	The text is center-aligned, keeping the site visually balanced.
+5. Image Styling
+	•	Images are 80% of the screen width, up to 600px max, ensuring they remain responsive.
+	•	Rounded corners (border-radius: 15px) give the images a smooth, modern appearance.
+	•	Shadow effects (box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5)) make images pop out, adding depth.
+6. Footer Styling
+	•	The footer matches the header with a deep red background.
+	•	A shadow effect is added to create a slight floating effect.
+	•	The footer contains the email contact link, styled in white.
